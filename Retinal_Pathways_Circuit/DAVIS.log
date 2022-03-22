@@ -1,0 +1,96 @@
+Circuit: * D:\Academics\Curriculum\ACVD_LABS\Exp-7_8\majorProject\Retinal_Pathways_Circuit\DAVIS.asc
+
+WARNING: Less than two connections to node VRESET.  This node is used by V7.
+WARNING: Less than two connections to node VTHETAN.  This node is used by V8.
+WARNING: Less than two connections to node VTHETAP.  This node is used by V9.
+Warning: toxe, toxp and dtox all given and toxe != toxp + dtox; dtox ignored.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+Gmin = 3.78697e-007
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 7.94338e-008
+vernier = 1
+Gmin = 9.33136e-009
+Gmin = 1.00195e-009
+Gmin = 1.07583e-010
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.18425e-011
+vernier = 0.0625
+vernier = 0.0833333
+Gmin = 4.46421e-011
+vernier = 0.111111
+Gmin = 3.48763e-011
+vernier = 0.148148
+vernier = 0.197531
+Gmin = 2.31222e-011
+vernier = 0.263374
+vernier = 0.351165
+Gmin = 1.21035e-011
+vernier = 0.46822
+Gmin = 4.44918e-012
+vernier = 0.624294
+vernier = 0.312147
+vernier = 0.156073
+vernier = 0.0780367
+vernier = 0.0390184
+Gmin = 4.08724e-012
+vernier = 0.0195092
+vernier = 0.00975459
+vernier = 0.0048773
+vernier = 0.00243865
+Gmin = 4.06492e-012
+vernier = 0.00121932
+vernier = 0.000609662
+vernier = 0.000457246
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 81.8182%
+Source Step = 89.3939%
+Source Step = 95.0758%
+Source Step = 95.6439%
+Source Step = 96.1174%
+Source Step = 96.5909%
+Source Step = 97.0644%
+Source Step = 97.5379%
+vernier = 0.0234375
+Source Step = 98.1771%
+Source Step = 98.8873%
+Source Step = 99.5975%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Tue Mar 22 13:37:40 2022
+Total elapsed time: 1.031 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10805
+traniter = 6335
+tranpoints = 1980
+accept = 1650
+rejected = 330
+matrix size = 141
+fillins = 95
+solver = Normal
+Thread vector: 24.5/17.0[4] 8.4/3.1[4] 4.5/1.6[4] 0.4/4.0[1]  2592/500
+Matrix Compiler1: 21.83 KB object code size  4.0/2.0/[1.0]
+Matrix Compiler2: 17.05 KB object code size  2.7/2.5/[0.5]
+
